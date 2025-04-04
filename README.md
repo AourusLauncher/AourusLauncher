@@ -12,7 +12,7 @@
 <h2 align=center>Features</h2>
 
 * [X] 99.99% compatibility with Windows apps and games.
-* [X] Compatible with anti-cheat systems
+* [X] Compatible with anti-cheat systems.
 * [X] Seamless integration with Linux desktop environments.
 * [X] Optimized performance for smooth user experience.
 * [X] Customizable settings for apps and games.
@@ -20,7 +20,10 @@
 * [X] Automatic updates for best compatibility.
 * [X] Full support for Windows-specific libraries and dependencies.
 * [X] 🛠️ Tech Stack:
-* [X] C++ / Wine
-* [X] Custom-built compatibility layer
-* [X] Cross-platform integration
-* [X] Efficient resource management for Linux systems
+  * [X] C++ / Wine
+  * [X] Custom-built compatibility layer
+  * [X] Cross-platform integration
+  * [X] Efficient resource management for Linux systems
+
+<h2 align=center>The Ultimate Solution for Windows on Linux</h2>
+<p align=center><strong>This is not just another app launcher. AourusLauncher will revolutionize the way you experience Windows applications and games on Linux. With unparalleled compatibility, flawless integration, and constant optimization, this project aims to be the best of its kind on the planet. Prepare to experience Windows on Linux like never before, with performance and reliability that will surpass all expectations!</strong></p>
