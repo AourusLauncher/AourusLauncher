@@ -2,9 +2,12 @@
 
 <h1 align=center>AourusLauncher</h1>
 
-<h2 align=center>Windows app launcher for Linux</h2> 
+<h2 align=center>Windows app launcher for Linux</h2>
 
 <h3 align=center>Ensure maximum compatibility with Windows applications and anti-cheat systems.</h3>
+
+<h2 align=center>Project Status</h2>
+<p align=center><strong>In development. The source code and the application will be released as soon as everything is ready. Estimated release date: 2028. Current progress: 7% completed.</strong></p>
 
 <h2 align=center>Features</h2>
 
