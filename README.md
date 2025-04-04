@@ -1,4 +1,4 @@
-<p align=center><img src="https://raw.githubusercontent.com/AourusLauncher/AourusLauncher/refs/heads/main/ChatGPT%20Image%204%20%D0%B0%D0%BF%D1%80.%202025%20%D0%B3.%2C%2011_03_44.png" width=100></p>
+<p align=center><img src="https://raw.githubusercontent.com/AourusLauncher/AourusLauncher/refs/heads/main/logo.png" width=100></p>
 
 <h1 align=center>AourusLauncher</h1>
 
