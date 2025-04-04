@@ -20,10 +20,10 @@
 * [X] Automatic updates for best compatibility.
 * [X] Full support for Windows-specific libraries and dependencies.
 * [X] 🛠️ Tech Stack:
-  * [X] C++ / Wine
-  * [X] Custom-built compatibility layer
-  * [X] Cross-platform integration
-  * [X] Efficient resource management for Linux systems
+* [X] C++ / Wine
+* [X] Custom-built compatibility layer
+* [X] Cross-platform integration
+* [X] Efficient resource management for Linux systems
 
 <h2 align=center>The Ultimate Solution for Windows on Linux</h2>
 <p align=center><strong>This is not just another app launcher. AourusLauncher will revolutionize the way you experience Windows applications and games on Linux. With unparalleled compatibility, flawless integration, and constant optimization, this project aims to be the best of its kind on the planet. Prepare to experience Windows on Linux like never before, with performance and reliability that will surpass all expectations!</strong></p>
